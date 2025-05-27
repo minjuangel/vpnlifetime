@@ -3,8 +3,8 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "pages.dev"; // Ganti dengan domain utama kalian
-const serviceName = "vpnlife"; // Ganti dengan nama workers kalian
+const rootDomain = "huixuan.my.id"; // Ganti dengan domain utama kalian
+const serviceName = "vpn"; // Ganti dengan nama workers kalian
 const apiKey = ""; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = ""; // Ganti dengan email yang kalian gunakan
 const accountID = ""; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
